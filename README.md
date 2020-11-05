@@ -8,27 +8,26 @@ I think its fair to say I've a strong command of Web Technologies at this stage!
 
 I enjoy making Web Applications, and showing that the web can be so much more than just static pages with links.
 
+In my spare time, I work on apps related to my hobbies - Photography and Music.
+
 ## My Specialities
 ### Domains
 - Component Based Architecture for Front-end Applications
-- REST APIs and Real-time communicatin via Websockets
+- MVVM/MVC Patterns
+- RESTful APIs, and Real-time communication via Websockets
 - Data Processing
 ### Technologies
 - Javascript (ES6/ES5) / CSS / HTML5
 - Svelte, Sapper, AngularJS
 - NodeJS / Express
 - C# /.NET Framework
-- Batch Scripts
 - Sql Server, MySql
+- Batch Scripts
 
 
 ## 🔭 I’m currently working on^:
 
 | Name        | Description             | Lang       |
 |-------------|-------------------------|------------|
-| Boroughlike | Top-down Roguelike      | JS (Web)   | 
-| Wulfenstil  | Psuedo-3d FPS Roguelite | JS (Web)   | 
+| FotoFaultFixer | C# Tool for fixing images     | C#/.net core (Desktop)   | 
 | AMS         | Ambient Music System    | JS (Web)   |
-| Lasso       | Visual Web Proxy        | JS (Node)  |
-
-^ Some of these projects may be private now, but will be public in future
