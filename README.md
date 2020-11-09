@@ -1,14 +1,14 @@
 # Hello there, I'm Philip 👋
 
 ## About Me
-I'm a veteran Software Developer.
+I'm a veteran Software Developer, and also the host of the SpeakingSoftware Podcast.
 
 I've been writing Web Applications since "DHTML and AJAX" were the peak of the Web.
 I think its fair to say I've a strong command of Web Technologies at this stage!
 
-I enjoy making Web Applications, and showing that the web can be so much more than just static pages with links.
+I enjoy writing software, and firmly believe its equal parts Art, Science and Sorcery.
 
-In my spare time, I work on apps related to my hobbies - Photography and Music.
+In my spare time, I host the SpeakingSoftware Podcast and seperately work on apps related to my hobbies - Photography and Music.
 
 ## My Specialities
 ### Domains
@@ -25,7 +25,7 @@ In my spare time, I work on apps related to my hobbies - Photography and Music.
 - Batch Scripts
 
 
-## 🔭 I’m currently working on^:
+## 🔭 I’m currently working on:
 
 | Name        | Description             | Lang       |
 |-------------|-------------------------|------------|
