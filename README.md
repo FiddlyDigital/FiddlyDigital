@@ -1,33 +1,23 @@
 # Hello there, I'm Philip 👋
 
 ## About Me
-I'm a veteran Software Developer, and also the host of the SpeakingSoftware Podcast.
+Engineering Lead, Host of the SpeakingSoftware Podcast, and Published Author.
+I have over 13 years experience working with SAAS Platforms in both the Finance and MarTech domains.
 
 I've been writing Web Applications since "DHTML and AJAX" were the peak of the Web.
 I think its fair to say I've a strong command of Web Technologies at this stage!
 
-I enjoy writing software, and firmly believe its equal parts Art, Science and Sorcery.
+I thoroughly enjoy writing software; and firmly believe its equal parts Art, Science and Sorcery.
 
-In my spare time, I host the SpeakingSoftware Podcast and seperately work on apps related to my hobbies - Photography and Music.
-
-## My Specialities
-### Domains
-- Component Based Architecture for Front-end Applications
-- MVVM/MVC Patterns
-- RESTful APIs, and Real-time communication via Websockets
-- Data Processing
-### Technologies
-- Javascript (ES6/ES5) / CSS / HTML5
-- Svelte, Sapper, AngularJS
-- NodeJS / Express
-- C# /.NET Framework
-- Sql Server, MySql
-- Batch Scripts
-
+## Accomplished in: 
+- Cross-functional Team Management - Leadership, Mentoring, Direction and Guidance
+- Designing and Implementing Full-Stack Software System Architecture
+- Technical Research and Development, POCs and MVPs
+- Backend Development, REST APIs, OData, gRPC, and Microservices in .NET and Typescript
+- Frontend Development, WYSIWYGs and Rich Web Applications in Vue and Svelte, via JavaScript and Typescript
 
 ## 🔭 I’m currently working on:
 
 | Name        | Description             | Lang       |
 |-------------|-------------------------|------------|
-| FotoFaultFixer | C# Tool for fixing images     | C#/.net core (Desktop)   | 
-| AMS         | Ambient Music System    | JS (Web)   |
+| [Anonimizer](https://www.npmjs.com/package/@speakingsoftware/anonimizer) | TS/JS Lib to anonimize sensitive data in text, and rehydrate those vales in derived in derived text.  | Typescript | 
