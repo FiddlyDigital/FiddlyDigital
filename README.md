@@ -4,10 +4,11 @@
 Engineering Lead, Host of the SpeakingSoftware Podcast, and Published Author.
 I have over 13 years experience working with SAAS Platforms in both the Finance and MarTech domains.
 
+I thoroughly enjoy writing software; and firmly believe its equal parts Art, Science and Sorcery.
 I've been writing Web Applications since "DHTML and AJAX" were the peak of the Web.
 I think its fair to say I've a strong command of Web Technologies at this stage!
 
-I thoroughly enjoy writing software; and firmly believe its equal parts Art, Science and Sorcery.
+I'm originally from Dublin, but now call Madrid home.
 
 ## Accomplished in: 
 - Cross-functional Team Management - Leadership, Mentoring, Direction and Guidance
