@@ -16,9 +16,3 @@ I'm originally from Dublin, but now call Madrid home.
 - Technical Research and Development, POCs and MVPs
 - Backend Development, REST APIs, OData, gRPC, and Microservices in .NET and Typescript
 - Frontend Development, WYSIWYGs and Rich Web Applications in Vue and Svelte, via JavaScript and Typescript
-
-## 🔭 I’m currently working on:
-
-| Name        | Description             | Lang       |
-|-------------|-------------------------|------------|
-| [Anonimizer](https://www.npmjs.com/package/@speakingsoftware/anonimizer) | TS/JS Lib to anonimize sensitive data in text, and rehydrate those vales in derived in derived text.  | Typescript | 
