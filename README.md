@@ -2,7 +2,7 @@
 
 ## About Me
 Engineering Lead, Host of the SpeakingSoftware Podcast, and Published Author.
-I have over 13 years experience working with SAAS Platforms in both the Finance and MarTech domains.
+I have over 15 years experience working with SAAS Platforms in both the Finance and MarTech domains.
 
 I thoroughly enjoy writing software; and firmly believe its equal parts Art, Science and Sorcery.
 I've been writing Web Applications since "DHTML and AJAX" were the peak of the Web.
